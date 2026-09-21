@@ -71,7 +71,7 @@ My 9x schedule against OpenSSL, BoringSSL, and Intel IPsec-MB. All four produce 
 
 ---
 
-## How It Works: The Story Behind Each Kernel
+## How It Works
 
 This section walks through the hardware and cryptographic bottlenecks faced, why each assembly kernel was built, and how they operate together.
 
